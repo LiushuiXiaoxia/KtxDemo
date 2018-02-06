@@ -1,6 +1,23 @@
 # Android KTX简介
 
 ---
+<!-- TOC -->
+
+- [Android KTX简介](#android-ktx简介)
+    - [介绍](#介绍)
+    - [主要功能](#主要功能)
+        - [字符串转为URI](#字符串转为uri)
+        - [SharedPreferences](#sharedpreferences)
+        - [Path](#path)
+        - [View的onPreDraw监听](#view的onpredraw监听)
+    - [代码接入](#代码接入)
+    - [原理介绍](#原理介绍)
+        - [Extensions](#extensions)
+        - [Lambdas](#lambdas)
+        - [Default Arguments](#default-arguments)
+    - [相关链接](#相关链接)
+
+<!-- /TOC -->
 
 ## 介绍
 
